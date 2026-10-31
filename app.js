@@ -5,3 +5,4 @@ console.log("Je comprends maintenant git diff !");
 console.log("Nouvelle fonctionnalité sur ma branche !");
 console.log("Bienvenue dans la version B !");
 console.log("Bienvenue dans la version A !");
+console.log("Modification mise de cote !");
