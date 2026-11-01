@@ -1,0 +1,7 @@
+# Fichiers contenant des informations secrètes
+.env
+*.pem
+*.key
+
+# Fichiers temporaires
+*.log
